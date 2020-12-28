@@ -1,4 +1,4 @@
-# Welcome to Hotel Booking repository
+# Welcome to Yellow Moon Shop repository
 This repository is a Java Web Application based on MVC Model 2 using Filter as Main Controller, as a part of LAB321 course at FPT University, HCMC Campus
 
 ## You will find in this repo:
