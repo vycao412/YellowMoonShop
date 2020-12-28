@@ -5,7 +5,7 @@ This repository is a Java Web Application based on MVC Model 2 using Filter as M
 * [Requirement](https://github.com/vycao412/YellowMoonShop/blob/main/J3.L.P0011.-Yelow-Moon-Shop.pdf)
 * [Source](https://github.com/vycao412/YellowMoonShop/tree/main/YellowMoonShop)
 * [Database](https://github.com/vycao412/YellowMoonShop/blob/main/script.sql)
-* [Libraries](https://www.facebook.com/profile.php?id=100010366447002)
+* [Library](https://github.com/vycao412/YellowMoonShop/tree/main/Library)
 * [.gitigore](https://github.com/vycao412/YellowMoonShop/blob/main/.gitignore)
 * Markdown code - this file itself
 
